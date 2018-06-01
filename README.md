@@ -27,7 +27,7 @@ The **Game of Life** is an two dimensional orthongonal grid of 'cells'
 
 *	Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
-![Glider](https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/Game_of_Life_glider#/media/File:Game_of_life_animated_glider.gif) 
+![Glider](https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif) 
 
 ## Dev Tools 
 
